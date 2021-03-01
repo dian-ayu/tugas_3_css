@@ -1,0 +1,32 @@
+p {
+  background-color: silver;
+}
+
+p.p_pertama {
+  background-color: orange;
+  color: black;
+  font-size: 13px;
+  font-weight: lighter;
+  font-family: serif;
+}
+
+p.p_kedua {
+  background-color: blue;
+  color: white;
+  font-size: 13px;
+  font-family: serif;
+}
+
+p.p_tiga {
+  background-color: white;
+  font-family: cursive, arial;
+  font-size: 17px;
+  border-style: ridge;
+}
+
+p.p_empat {
+  font-weight: 900;
+  font-size: 17px;
+  font-family: serif;
+  color: black;
+}
